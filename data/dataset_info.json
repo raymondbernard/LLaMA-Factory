@@ -392,5 +392,38 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "bcm_cli": {
+    "file_name": "bcm_cli.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "question",
+      "response": "answer",
+      "system": "system"
+    }
+  },"infiniband": {
+    "file_name": "infiniband.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "question",
+      "response": "answer",
+      "system": "system"
+    }
+  },"nvidia_dgx": {
+    "file_name": "nvidia_dgx.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "question",
+      "response": "answer",
+      "system": "system"
+    }
+  },"vastdata": {
+    "file_name": "vastdata.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "question",
+      "response": "answer",
+      "system": "system"
+    }
   }
 }
